@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ihnm-fantradfr.xyz/sitemap.xml
